@@ -6,6 +6,7 @@ Programming Fundamentals lab work in C, listed lab by lab in order.
 
 - [Lab 04](#lab-04)
 - [Lab 05](#lab-05)
+- [Lab 06](#lab-06)
 
 ---
 
@@ -29,7 +30,6 @@ Folder: [`Lab04/`](./Lab04)
 
 Folder: [`Lab05/`](./Lab05)
 
-
 | Task | File |
 | --- | --- |
 | 1 | [Task 01.c](./Lab05/Task%2001.c) |
@@ -41,4 +41,13 @@ Folder: [`Lab05/`](./Lab05)
 | 7 | [Task 07.c](./Lab05/Task%2007.c) |
 | 8 | [Task 08.c](./Lab05/Task%2008.c) |
 | 9 | [Task 09.c](./Lab05/Task%2009.c) |
-| 10| [Task 10.c](./Lab05/Task%2010.c) |
+| 10 | [Task 10.c](./Lab05/Task%2010.c) |
+
+---
+
+## Lab 06
+
+Folder: [`Lab06/`](./Lab06)
+
+| Task | File |
+| ---
