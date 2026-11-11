@@ -1,0 +1,9 @@
+Customer name: yahya
+Account number: 8909
+Withdraw amount: 12450.000000
+Customer name: ibra
+Account number: 123340912
+Withdraw amount: 9000.000000
+Customer name: yahy
+Account number: 450092
+Withdraw amount: 102980.00
