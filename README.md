@@ -113,3 +113,34 @@ Folder: [`Lab10/`](./Lab10)
 | 4 | [Q4.c](./Lab10/Q4.c) |
 | 5 | [Q5.c](./Lab10/Q5.c) |
 | 6 | [Q6.c](./Lab10/Q6.c) |
+
+---
+
+## Lab 11
+
+Folder: [`Lab11/`](./Lab11)
+
+| Task | File |
+| --- | --- |
+| 1 | [Q1.c](./Lab11/Q1.c) |
+| 2 | [Q2.c](./Lab11/Q2.c) |
+| 3 | [Task1.c](./Lab11/Task1.c) |
+| 4 | [Task2.c](./Lab11/Task2.c) |
+| 5 | [Task3.c](./Lab11/Task3.c) |
+| 6 | [Task4.c](./Lab11/Task4.c) |
+| 7 | [Task5.c](./Lab11/Task5.c) |
+| 8 | [Task6.c](./Lab11/Task6.c) |
+
+---
+
+## Lab 12
+
+Folder: [`Lab12/`](./Lab12)
+
+| Task | File |
+| --- | --- |
+| 1 | [Q1.c](./Lab12/Q1.c) |
+| 2 | [Q2.c](./Lab12/Q2.c) |
+| 3 | [Q3.c](./Lab12/Q3.c) |
+| 4 | [Q4.c](./Lab12/Q4.c) |
+| 5 | [Q5.c](./Lab12/Q5.c) |
